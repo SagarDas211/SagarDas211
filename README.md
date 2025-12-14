@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m Sagar Das 👋, a Software Engineer focused on building backend and full-stack systems with an emphasis on performance, security, and scalability.  
+I’m Sagar Das, a Software Engineer focused on building backend and full-stack systems with an emphasis on performance, security, and scalability.  
 I work on production systems involving APIs, real-time communication, and cloud-native services.
 
 ### 🔭 I’m currently working on
