@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I’m Sagar Das 👋
+
+I’m a Software Engineer focused on building backend and full-stack systems with an emphasis on performance, security, and scalability.  
+I work on production systems involving APIs, real-time communication, and cloud-native services.
+
+### 🔭 I’m currently working on
+- Backend services using Python (Flask) and Go
+- Security hardening (JWT, RBAC, session management, CORS)
+- Performance optimization and load testing
+- Monitoring systems using Prometheus and Kubernetes
+
+### 🛠 Tech and Tools
+- **Languages:** Python, Go, Java, JavaScript, SQL  
+- **Backend & Frontend:** Flask, Gin, React  
+- **Databases & Storage:** MySQL, Redis, AWS S3  
+- **Infra & Tools:** Docker, Kubernetes, Prometheus, Git  
+- **Concepts:** REST APIs, Microservices, WebSockets, Load Testing
+
+### 📫 How to reach me
+- Email: [sagar952002@gmail.com](mailto:sagar952002@gmail.com)
+- LinkedIn: https://linkedin.com/in/sagarkumardas
