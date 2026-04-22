@@ -32,4 +32,4 @@ I work on production systems involving APIs, real-time communication, and cloud-
 
 ### 📫 How to reach me
 - Email: [sagar952002@gmail.com](mailto:sagar952002@gmail.com)
-- LinkedIn: https://linkedin.com/in/sagarkumardas
+- LinkedIn: https://linkedin.com/in/sagar-kumar-das-15311723b
